@@ -1,0 +1,161 @@
+﻿Выполняется установка сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'c:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = c:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Выполняется удаление службы Service из системы...
+Служба Service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Устанавливается служба Service...
+Служба Service успешно установлена.
+Создается исходный EventLog Service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление сборки 'C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Предупреждение. Источник Service не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\User\Desktop\First - WCF\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Выполняется удаление источника EventLog Service.
+Предупреждение. Источник Service не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.

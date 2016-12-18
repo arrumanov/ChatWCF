@@ -1,0 +1,15 @@
+﻿<Window x:Class="Client.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Регистрация" Height="163.761" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Name="lblText" Margin="0,20,177,10" FontSize="20">User name:</Label>
+        <TextBox Grid.Row="0" Name="txtName" Margin="120,20,10,10"></TextBox>
+        <Button Grid.Row="1" Name="btnOk" Margin="28,20,177,10" FontSize="15" Click="btnOk_Click">Ok</Button>
+        <Button Grid.Row="1" Name="btnCancel" Margin="158,20,34,10" FontSize="15" Click="btnCancel_Click" RenderTransformOrigin="0.258,0.481">Cancel</Button>
+    </Grid>
+</Window>

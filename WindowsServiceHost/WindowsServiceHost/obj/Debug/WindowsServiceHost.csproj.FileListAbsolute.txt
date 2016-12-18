@@ -1,0 +1,20 @@
+C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\ChatServiceLibrary.dll
+C:\Код\WindowsServiceHost\WindowsServiceHost\bin\Debug\ChatServiceLibrary.pdb
+C:\Код\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+C:\Код\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+C:\Код\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Код\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
+C:\Код\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\ChatServiceLibrary.dll
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\bin\Debug\ChatServiceLibrary.pdb
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+C:\Users\Pc\Desktop\Новая папка\WindowsServiceHost\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache

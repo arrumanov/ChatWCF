@@ -1,0 +1,17 @@
+C:\Код\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll.config
+C:\Код\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll
+C:\Код\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.pdb
+C:\Код\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.dll
+C:\Код\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.pdb
+C:\Код\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pst\Desktop\1\my\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll.config
+C:\Users\pst\Desktop\1\my\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll
+C:\Users\pst\Desktop\1\my\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.pdb
+C:\Users\pst\Desktop\1\my\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.dll
+C:\Users\pst\Desktop\1\my\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.pdb
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll.config
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.dll
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\bin\Debug\ChatServiceLibrary.pdb
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.dll
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.pdb
+C:\Users\Pc\Desktop\Новая папка\Chat\ChatServiceLibrary\obj\Debug\ChatServiceLibrary.csprojResolveAssemblyReference.cache

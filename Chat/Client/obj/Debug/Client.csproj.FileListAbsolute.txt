@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\LiginWindow.baml
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\MainWindow.baml
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\LiginWindow.g.cs
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\App.g.cs
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.g.resources
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\bin\Debug\Client.exe.config
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\bin\Debug\Client.exe
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\bin\Debug\Client.pdb
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.exe
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.pdb
+C:\Users\Pc\Desktop\Новая папка\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
